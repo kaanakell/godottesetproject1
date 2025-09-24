@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=4 uid="uid://ckg3421b1wkvu"]
 
-[ext_resource type="PackedScene" uid="uid://710jjnjdpxb" path="res://godottesetproject1/Player.tscn" id="1_0bhxn"]
-[ext_resource type="TileSet" uid="uid://dj18tdbdotilt" path="res://godottesetproject1/GameTileSet.tres" id="2_mqaop"]
+[ext_resource type="PackedScene" uid="uid://710jjnjdpxb" path="res://Player.tscn" id="1_0bhxn"]
+[ext_resource type="TileSet" uid="uid://dj18tdbdotilt" path="res://GameTileSet.tres" id="2_mqaop"]
 
 [node name="Game" type="Node2D"]
 
